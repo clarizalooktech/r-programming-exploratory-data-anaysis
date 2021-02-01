@@ -1,3 +1,1 @@
-# r-programming-exploratory-data-anaysis
-r-programming-exploratory-data-anaysis
-1. Download the the html file and view it as normal to see visualizations
+Above is just an example to showcase my knowledge in R programming language and demonstrating the step by step process of the data cleaning, data manipulation, analysis and conclusion (or so-called Exploratory Data Analysis for Data Science). 
