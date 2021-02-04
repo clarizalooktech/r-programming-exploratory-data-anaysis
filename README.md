@@ -3,3 +3,4 @@ This project is an example to showcase my knowledge in R programming language an
 Options to view the visualizations
 1. Click the "pdf" file.
 2. Download the "html-file.zip" file on your desktop and upzip to see html file.
+3. "Rmd" for the code base
